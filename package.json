@@ -1,0 +1,12 @@
+{
+  "name": "react-kma-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:grebenyuksv/react-kma-server.git",
+  "author": "Sergii Grebeniuk <sergii.g@preply.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
